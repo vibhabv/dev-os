@@ -1,0 +1,47 @@
+# ============================================================================
+# Secrets / environment files
+# Real values live only in .env.local (or the platform's env var UI), never
+# committed. .env.example stays tracked — it only holds empty placeholders.
+# See .env.example for what each variable is (OPENAI_API_KEY,
+# SUPABASE_SERVICE_ROLE_KEY, RESEND_API_KEY, Slack webhook URLs, etc.).
+# ============================================================================
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+# ============================================================================
+# Dependencies / build output
+# ============================================================================
+node_modules/
+.next/
+out/
+dist/
+build/
+
+# ============================================================================
+# Deployment platforms
+# ============================================================================
+.netlify/
+.vercel/
+
+# ============================================================================
+# OS / editor junk
+# ============================================================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ============================================================================
+# Logs
+# ============================================================================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env.local

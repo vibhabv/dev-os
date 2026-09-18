@@ -1,0 +1,1 @@
+- [ContractIQ review log](review_log_contractiq.md) — round-by-round verdicts/issues for engineering-doc.md vs PRD; Round 8 = APPROVED (zero gaps) after 7 rounds of fixes; includes pattern notes on re-checking sibling PRD list items after targeted fixes.

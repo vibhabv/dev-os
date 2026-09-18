@@ -1,0 +1,2 @@
+- [ContractIQ Engineering Doc](contractiq_engineering_doc.md) — APPROVED after 8 review rounds; key architectural decisions resolving PRD ambiguities (backend choice, Realtime chat, opt-in corrections, DPA reconciliation, North Star metric, beta gating)
+- [Engineering Review Loop Pattern](engineering_review_loop_pattern.md) — why the fix/review loop ran 8 rounds and a 6-point self-review checklist to shorten it next time
