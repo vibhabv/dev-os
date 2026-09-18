@@ -1,6 +1,6 @@
-# ContractIQ: How I Built an AI Contract-Review App with Claude Code
+# ContractIQ: How i Built an AI Contract-Review App with Claude Code
 
-
+https://vibhabv.github.io/built_how_contractIQ/#remember
 
 # dev-os
 
