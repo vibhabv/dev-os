@@ -1,3 +1,7 @@
+# ContractIQ: How I Built an AI Contract-Review App with Claude Code
+
+
+
 # dev-os
 
 A structured AI-assisted development operating system for building production-ready apps — from idea to deployed product using a stage-gated workflow enforced through Claude Code skills.
